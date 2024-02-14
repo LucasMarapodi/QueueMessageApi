@@ -1,6 +1,12 @@
 # QueueMessageApi
 Testing Queue application with RabbitMq
 
+Entity Framework ✔️
+.Net 7.0 ✔️
+RabbitMq ✔️
+Tests ❌
+Docker file ❌
+
 <h4>ONLY BACKEND</h4>
 
 Application sends a email with greetings for a new user 
