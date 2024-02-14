@@ -1,11 +1,11 @@
 # QueueMessageApi
 Testing Queue application with RabbitMq
 
-Entity Framework ✔️
-.Net 7.0 ✔️
-RabbitMq ✔️
-Tests ❌
-Docker file ❌
+ - Entity Framework ✔️ 
+ - Net 7.0 ✔️ 
+ - RabbitMq ✔️
+ - Tests ❌
+ - Docker file ❌
 
 <h4>ONLY BACKEND</h4>
 
